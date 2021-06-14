@@ -32,7 +32,7 @@ function UserLists(props) {
   return (
     <>
       <Paper
-        style={{ maxWidth: 500, margin: "10px auto", padding: "5px" }}
+        style={{ maxWidth: 500, margin: "20px auto", padding: "5px" }}
         elevation={3}
       >
         <Grid container>
